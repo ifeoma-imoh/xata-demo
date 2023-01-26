@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Ifeoma-Imoh-s-workspace-p8djrg.us-east-1.xata.sh/db/review-app",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "esm"
+  }
+}
